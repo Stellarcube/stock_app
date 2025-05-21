@@ -14,7 +14,7 @@ An interactive web app built with Streamlit to visualize historical stock data (
 - Sidebar controls to select:
   - Stock ticker
   - Time period (e.g., 1 week, 1 month)
-  - Interval (e.g., daily, hourly)
+  - Interval (e.g., daily)
 - Dynamic chart titles based on selected stock
 - Hoverable tooltips showing:
   - Date
@@ -39,12 +39,7 @@ An interactive web app built with Streamlit to visualize historical stock data (
 ## 🚀 Deployment
 
 The app is deployed on Streamlit and can be accessed here:  
-**[Live App Link](https://your-app-link.streamlit.app/)**
+**[Stock Analytics App](https://stock-app-analytics.streamlit.app/)**
 
-## 📁 Setup Locally
-
-```bash
-pip install streamlit yfinance plotly
-streamlit run app.py
 
 
