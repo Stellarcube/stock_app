@@ -28,7 +28,13 @@ An interactive web app built with Streamlit to visualize historical stock data (
 
 ## 📸 Screenshots
 
-*(Add screenshots of your app UI here)*
+**Closing Prices**
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/c5191309-9444-4f33-807d-074e382ab392" />
+
+**Trading Volume**
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/bfed006d-cf72-4751-99e4-a8977e865bfa" />
 
 ## 🚀 Deployment
 
