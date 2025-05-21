@@ -53,7 +53,7 @@ select_stock = st.sidebar.selectbox(
 )
 
 st.write("""
-## Stock Price App
+## Stock Analytics App
 
 Shown are the stock **closing price** and **volume** of {}!
 
