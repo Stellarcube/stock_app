@@ -41,10 +41,5 @@ An interactive web app built with Streamlit to visualize historical stock data (
 The app is deployed on Streamlit and can be accessed here:  
 **[Stock Analytics App](https://stock-app-analytics.streamlit.app/)**
 
-## 📁 Setup Locally
-
-```bash
-pip install streamlit yfinance plotly
-streamlit run app.py
 
 
