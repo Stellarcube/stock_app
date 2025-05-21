@@ -14,7 +14,7 @@ An interactive web app built with Streamlit to visualize historical stock data (
 - Sidebar controls to select:
   - Stock ticker
   - Time period (e.g., 1 week, 1 month)
-  - Interval (e.g., daily, hourly)
+  - Interval (e.g., daily)
 - Dynamic chart titles based on selected stock
 - Hoverable tooltips showing:
   - Date
