@@ -1,6 +1,6 @@
 # 📊 Stock Analysis Web Application
 
-An interactive web app built with Streamlit to visualize historical stock data (closing prices and trading volume) of leading tech stocks using the yfinance API. Users can dynamically select a stock, time period, and data interval to explore price trends over time.
+An interactive web app built with Streamlit to visualize historical stock data (closing prices and trading volume) of leading tech stocks using the yfinance API. Users can dynamically select a stock, time period, and data interval to explore price trends over time. This project demonstrates practical knowledge of interactive data visualization, API-based data retrieval, UI/UX design using Streamlit, and deployment of Python applications to the cloud. It provides a robust foundation for building financial analytics dashboards and showcases effective use of modern Python tools in real-world projects.
 
 ## 🔧 Tech Stack
 
@@ -47,4 +47,4 @@ The app is deployed on Streamlit and can be accessed here:
 pip install streamlit yfinance plotly
 streamlit run app.py
 
-This project demonstrates practical knowledge of interactive data visualization, API-based data retrieval, UI/UX design using Streamlit, and deployment of Python applications to the cloud. It provides a robust foundation for building financial analytics dashboards and showcases effective use of modern Python tools in real-world projects.
+
